@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.7.6+commit.7338295f"
+		"version": "0.8.24+commit.e11b9ed9"
 	},
 	"language": "Solidity",
 	"output": {
@@ -180,7 +180,7 @@
 		"compilationTarget": {
 			"contracts/AbelStake.sol": "AbelStaking"
 		},
-		"evmVersion": "istanbul",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -193,19 +193,19 @@
 	},
 	"sources": {
 		"contracts/AbelStake.sol": {
-			"keccak256": "0xe44ffc6d48bbad592412eb56ac89ba4184e31a803cf1a9541102fb2c44959ecd",
+			"keccak256": "0xb69304eb36dd15fb41376a8672b843d9112860b201d91adeddcf446e5f4191ac",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://20707b848426c841a5caea64ec983c57aa38e0d9e834d936f949b1ac74821fa9",
-				"dweb:/ipfs/QmeFhQSLAxwvhVNzMcJzi8WXx83rAoB99i9naNfFkuUaH4"
+				"bzz-raw://c20637bc9887c11f3f1eb72cc5e3725889c77cd910ff4c04d4880ecdf19e681d",
+				"dweb:/ipfs/QmNt738GEqQRKaRFyqhFEy8TUjT4BFjzGjGU8cvbqFqv2f"
 			]
 		},
 		"contracts/IERC20.sol": {
-			"keccak256": "0xcaf4e011d338d607350f9a8d6926f7cf6dd178374950e5ee36490a69508d11b7",
+			"keccak256": "0xbddd01fc8d474dba00972ae75aea89b5c1b5293fc2573236a5c61e40596a079d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8229001f177304ffb47bdef8c493afa251118ab47ec17a8657130604c736da44",
-				"dweb:/ipfs/QmcdGp4b7Ldw7AULLpcCxkLd34hXXXi6yPy8jQxoq7cj4X"
+				"bzz-raw://5dbdb5b3b82fe3481c6933c086b023f87d339236a2615b9493aaef5735fe57c4",
+				"dweb:/ipfs/QmeDEvN4hbY6fHsHnAhphS45sF48f8LkEZamAnQkQgKJho"
 			]
 		}
 	},
